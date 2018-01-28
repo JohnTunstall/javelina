@@ -1,1 +1,1 @@
-#javelina* React Native App* Making an end to end app with basic users objects for now...
+# javelina* Mobile Application using React Native and Redux#### Setup Guide* clone the repository through the terminal* cd into the repo* run `npm install`* run `npm start`
